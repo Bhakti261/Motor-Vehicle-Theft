@@ -1,8 +1,8 @@
-🚗 Motor Vehicle Theft Dashboard
 
-Live App: 🎯 Open in Streamlit
 
-GitHub Repo: 🌐 Motor Vehicle Theft Dashboard
+## 🚗 Motor Vehicle Theft Dashboard
+**Live App:** [Open in Streamlit](https://motor-vehicle-theft-aehy2ozhqtqqwc48hkpamp.streamlit.app/)
+
 
 📊 Project Overview
 
